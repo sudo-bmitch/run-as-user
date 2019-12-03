@@ -1,3 +1,7 @@
+# Archived
+
+The concept from this has been incorporated into my docker-base repo: https://github.com/sudo-bmitch/docker-base/blob/master/bin/fix-perms
+
 # Run As User
 
 This is an example for how to run Docker containers as the user on the host.
